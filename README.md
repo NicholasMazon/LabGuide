@@ -2,7 +2,7 @@
 ---
 ## Assembling a kit
 
->Step 1: set aside the following boxes that can be found in the attic
+### Step 1: set aside the following boxes that can be found in the attic
  
 1 Main Box
 
@@ -16,7 +16,7 @@
 
 # 
 
->Step 2: print the following stickers
+### Step 2: print the following stickers
 
 <div class="accordion">
 
@@ -41,7 +41,7 @@ Once printed stick them inside of their correspoinding boxes
 
 #
 
->Step 3: Use these resources as you populate the boxes
+### Step 3: Use these resources as you populate the boxes
 
 Download and print [this prep sheet](https://trello.com/1/cards/63d2906851d0fd11ddd750bb/attachments/645005da1430995b4fb2e5d6/download/SCTL_Shipment_Prep_Sheet.xlsx) to check off the items you put in the box as you go
 
@@ -60,7 +60,7 @@ Download and print [this prep sheet](https://trello.com/1/cards/63d2906851d0fd11
 
 #
 
->Step 4: Shipping documents
+### Step 4: Shipping documents
 
 Use [this document](https://lobfile.com/file/jIlC.pptx) to guide your throught the process of making an international shipment with FedEx
 
